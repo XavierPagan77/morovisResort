@@ -127,14 +127,13 @@ a:hover{
       margin-top: 20px;
      }
 
-     #footer  a{
+     #footer  {
       margin-top: 50px;
       text-align: center;
       color: blue;
       font-size: 20px;
       padding-bottom: 50px;
-      
-     }
+      }
     
 
      @media(max-width:1028px){
