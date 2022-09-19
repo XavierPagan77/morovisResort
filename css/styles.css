@@ -2,13 +2,13 @@ body{
   font-family: "Montserrat";
   text-align: center;
   font-size: 1.1rem;
-  
-}
+  }
 
 i{
   color: blue;
   padding: 20px 0;
 }
+
 h1{
   text-align: center;
 }
@@ -36,10 +36,6 @@ a:hover{
   text-decoration: underline;
 }
 
-/* .ul-right{
- margin-left: 350px;
-} */
-
 .navbar-brand{
   font-size: 1.5rem;
   border-right: 1px solid darkgray;
@@ -56,9 +52,9 @@ a:hover{
     margin-left: 10px;
   }
 
-  /* .link-singin{
+  .link-singin{
     padding-right: 10px;
-  } */
+  } 
 
   /* Section-Medio */
   #medio .container-fluid,h1{
@@ -69,6 +65,7 @@ a:hover{
    }
 
   .col-titulo{
+    color:black;
     font-family: "Cinzel Decorative",cursive;
     padding:0 ;
     margin-left: 55px;
