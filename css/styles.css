@@ -127,7 +127,7 @@ a:hover{
       margin-top: 20px;
      }
 
-     #footer  {
+     #footer,a  {
       margin-top: 50px;
       text-align: center;
       color: blue;
